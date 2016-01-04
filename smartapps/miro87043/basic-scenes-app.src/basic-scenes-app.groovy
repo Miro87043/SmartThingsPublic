@@ -17,7 +17,7 @@ definition(
     name: "Basic Scenes App",
     namespace: "miro87043",
     author: "Micah Roth",
-    description: "I'm learning dynamic pages\r\n",
+    description: "My attempt at a scenes app\r\n",
     category: "My Apps",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
